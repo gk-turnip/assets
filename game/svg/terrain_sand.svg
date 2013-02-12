@@ -13,6 +13,7 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="standard fern diamond.svg">
+<g>
   <metadata
      id="metadata3007">
     <rdf:RDF>
@@ -49,7 +50,6 @@
      inkscape:current-layer="svg2997" />
   <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
   <g
-     id="avatar"
      style="fill:#f0dcac;fill-opacity:1">
     <title
        id="title3000">Layer 1</title>
@@ -61,4 +61,5 @@
        fill-opacity="0.04"
        style="fill:#f0dcac;fill-opacity:1" />
   </g>
+</g>
 </svg>
