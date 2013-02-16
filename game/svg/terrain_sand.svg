@@ -55,6 +55,7 @@
        id="title3000">Layer 1</title>
     <path
        fill="#ffffff"
+		stroke-width="0"
        stroke="#000000"
        d="m0,25l50,-25l50,25l-50,25l-50,-25z"
        id="diam"
