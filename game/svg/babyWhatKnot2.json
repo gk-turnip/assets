@@ -1,4 +1,8 @@
 {
+	"id": "{{.Id}}",
+	"x": "{{.IsoXYZ.X}}",
+	"y": "{{.IsoXYZ.Y}}",
+	"z": "{{.IsoXYZ.Z}}",
 	"origin_x": 30,
 	"origin_y": 100
 }
