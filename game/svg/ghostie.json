@@ -3,6 +3,7 @@
 	"x": "{{.IsoXYZ.X}}",
 	"y": "{{.IsoXYZ.Y}}",
 	"z": "{{.IsoXYZ.Z}}",
+	"userName": "{{.UserName}}",
 	"origin_x": 45,
 	"origin_y": 120
 }
