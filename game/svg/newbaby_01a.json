@@ -1,0 +1,12 @@
+{
+	"id": "{{.Id}}",
+	"x": "{{.IsoXYZ.X}}",
+	"y": "{{.IsoXYZ.Y}}",
+	"z": "{{.IsoXYZ.Z}}",
+	"userName": "{{.UserName}}",
+	"origin_x": 55,
+	"origin_y": 120,
+	"date": "2013-02-23",
+	"author": "Moerh Ossum",
+	"license": "Unknown"
+}
