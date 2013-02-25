@@ -1,1 +1,8 @@
-{ "subTerrain": "sand", "fillCount": 2 }
+{
+	"subTerrain": "sand",
+	"fillCount": 2,
+	"layer": "gkTerrainObjectLayer",
+	"date": "2013-02-23",
+	"author": "Jokes",
+	"license": "unknown"
+}

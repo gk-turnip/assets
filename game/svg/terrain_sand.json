@@ -1,1 +1,7 @@
-{ "terrain": "sand" }
+{
+	"terrain": "sand",
+	"layer": "gkTerrainBaseLayer",
+	"date": "2013-02-23",
+	"author": "Jokes",
+	"license": "unknown"
+}

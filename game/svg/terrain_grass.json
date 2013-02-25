@@ -1,5 +1,6 @@
 {
 	"terrain": "grass" ,
+	"layer": "gkTerrainBaseLayer",
 	"date": "2013-02-23",
 	"author": "1620469 Ontario Ltd.",
 	"license": "CC BY-NC 2.5 CA"

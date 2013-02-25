@@ -4,6 +4,7 @@
 	"y": "{{.IsoXYZ.Y}}",
 	"z": "{{.IsoXYZ.Z}}",
 	"userName": "{{.UserName}}",
+	"layer": "gkAvatarLayer",
 	"origin_x": 50,
 	"origin_y": 65
 }

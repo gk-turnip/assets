@@ -5,5 +5,10 @@
 	"z": "{{.IsoXYZ.Z}}",
 	"userName": "{{.UserName}}",
 	"origin_x": 55,
-	"origin_y": 120
+	"origin_y": 120,
+	"layer": "gkAvatarLayer",
+	"date": "2013-02-24",
+	"author": "Moerh Ossum",
+	"license": "CC BY-SA"
+
 }
