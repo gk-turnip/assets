@@ -81,7 +81,7 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="3.16"
-     inkscape:cx="0.63291139"
+     inkscape:cx="-48.734177"
      inkscape:cy="25"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -93,7 +93,7 @@
     <title
        id="title5">Layer 1</title>
     <path
-       style="fill:url(#linearGradient3005);fill-opacity:1;stroke:#000000"
+       style="fill:url(#linearGradient3005);fill-opacity:1;stroke:none;"
        d="M 0,25 C 16.666667,16.666667 33.333333,8.3333333 50,0 66.666667,8.3333333 83.333333,16.666667 100,25 83.333333,33.333333 66.666667,41.666667 50,50 33.333333,41.666667 16.666667,33.333333 0,25 z"
        id="diam"
        inkscape:connector-curvature="0" />
