@@ -58,13 +58,13 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5221"
-       id="linearGradient5273"
+       id="linearGradient3005"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
        x1="44.120255"
        y1="7.5949359"
        x2="52.398735"
-       y2="24.683544"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="reflect" />
+       y2="24.683544" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -92,11 +92,9 @@
     <title
        id="title5">Layer 1</title>
     <path
-       fill="#ffffff"
-       stroke="#000000"
-       d="m0,25l50,-25l50,25l-50,25l-50,-25z"
+       style="fill:url(#linearGradient3005);fill-opacity:1;stroke:#000000"
+       d="M 0,25 C 16.666667,16.666667 33.333333,8.3333333 50,0 66.666667,8.3333333 83.333333,16.666667 100,25 83.333333,33.333333 66.666667,41.666667 50,50 33.333333,41.666667 16.666667,33.333333 0,25 z"
        id="diam"
-       fill-opacity="0.04"
-       style="fill:url(#linearGradient5273);fill-opacity:1.0;opacity:1" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
