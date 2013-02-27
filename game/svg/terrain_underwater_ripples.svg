@@ -15,6 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="terrain_underwater_ripples.svg">
+<g>
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -97,4 +98,5 @@
        id="diam"
        inkscape:connector-curvature="0" />
   </g>
+</g>
 </svg>

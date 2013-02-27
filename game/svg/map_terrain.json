@@ -24,6 +24,6 @@
     { "terrain": "grass", "x": 4, "y": 1 },
     { "terrain": "grass", "x": 4, "y": 2 },
     { "terrain": "grass", "x": 4, "y": 3 },
-    { "terrain": "grass", "x": 4, "y": 4 }
+    { "terrain": "underwater_ripples", "x": 4, "y": 4 }
     ]
 }
