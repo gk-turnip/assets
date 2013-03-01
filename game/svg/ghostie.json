@@ -6,5 +6,5 @@
 	"userName": "{{.UserName}}",
 	"origin_x": 45,
 	"origin_y": 120,
-	"layer": "gkTerrainObject"
+	"layer": "gkTerrainObjectLayer"
 }
