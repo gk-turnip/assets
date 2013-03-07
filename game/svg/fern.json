@@ -6,5 +6,6 @@
 	"userName": "{{.UserName}}",
 	"layer": "gkAvatarLayer",
 	"origin_x": 50,
-	"origin_y": 65
+	"origin_y": 65,
+	"origin_z": 0
 }
