@@ -1,5 +1,5 @@
 {
-	"terrain": "newgrass",
+	"subTerrain": "newgrass",
 	"layer": "gkTerrainBaseLayer",
 	"date": "2013-03-15",
 	"author": "Fern Connelly",

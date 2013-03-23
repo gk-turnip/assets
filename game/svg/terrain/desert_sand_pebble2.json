@@ -1,6 +1,5 @@
 {
-	"subTerrain": "desert_sand",
-	"fillCount": 1,
+	"subTerrain": "desert_sand_pebble2",
 	"layer": "gkTerrainObjectLayer",
 	"date": "2013-02-26",
 	"author": "Moerh Ossum",

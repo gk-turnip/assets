@@ -1,6 +1,5 @@
 {
-	"subTerrain": "grass",
-	"fillCount": 2,
+	"subTerrain": "grass_tufts3",
 	"layer": "gkTerrainObjectLayer",
 	"date": "2013-02-23",
 	"author": "1620469 Ontario Ltd.",
