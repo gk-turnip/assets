@@ -16,6 +16,7 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="terrain_object_boulder_03.svg">
+<g>
   <defs
      id="defs16285">
     <radialGradient
@@ -236,4 +237,5 @@
          style="fill:url(#radialGradient16673);fill-opacity:1;stroke:none" />
     </g>
   </g>
+</g>
 </svg>

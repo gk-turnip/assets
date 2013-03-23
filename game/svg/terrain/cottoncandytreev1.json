@@ -1,6 +1,6 @@
 {
-	"object": "cottoncandytreev1",
-	"layer": "gkTerrainBaseLayer",
+	"terrain": "cottoncandytreev1",
+	"layer": "gkTerrainObjectLayer",
 	"date": "2013-03-15",
 	"author": "Fern Connelly",
 	"license": "unknown"

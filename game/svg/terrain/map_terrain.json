@@ -1,7 +1,14 @@
 {
 	"origin_x": 0,
 	"origin_y": 0,
-    "setList": [
+	"objectList": [
+{ "object": "cottoncandytreev1", "x": 30, "y": -10, "z": 0 },
+{ "object": "desertrock2", "x": 60, "y": 100, "z": 0 },
+{ "object": "boulder1", "x": -100, "y": 0, "z": 0 },
+{ "object": "boulder2", "x": 30, "y": 200, "z": 0 },
+{ "object": "boulder3", "x": 100, "y": 0, "z": 0 }
+],
+    "tileList": [
 { "terrain": "grass", "x": -290, "y": 0, "z": 0 },
 { "terrain": "grass", "x": -280, "y": 0, "z": 0 },
 { "terrain": "grass", "x": -280, "y": -10, "z": 0 },
@@ -874,9 +881,9 @@
 { "terrain": "underwater_ripples", "x": 0, "y": 0, "z": 0 },
 { "terrain": "desert_bigdune", "x": 0, "y": -10, "z": 0 },
 { "terrain": "desert_sand", "x": 10, "y": -10, "z": 0 },
-{ "terrain": "grass", "x": 10, "y": -20, "z": 2 },
-{ "terrain": "grass", "x": 20, "y": -20, "z": 2 },
-{ "terrain": "grass", "x": 20, "y": -30, "z": 2 },
+{ "terrain": "grass", "x": 10, "y": -20, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": -20, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": -30, "z": 0 },
 { "terrain": "grass", "x": 30, "y": -30, "z": 0 },
 { "terrain": "grass", "x": 30, "y": -40, "z": 0 },
 { "terrain": "grass", "x": 40, "y": -40, "z": 0 },
