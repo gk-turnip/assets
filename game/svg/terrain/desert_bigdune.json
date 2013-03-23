@@ -1,5 +1,7 @@
 {
 	"terrain": "desert_bigdune",
+	"originX": 50,
+	"originY": 0,
 	"layer": "gkTerrainBaseLayer",
 	"date": "2013-02-26",
 	"author": "Moehr Ossum",

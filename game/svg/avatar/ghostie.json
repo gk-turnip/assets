@@ -4,8 +4,8 @@
 	"y": "{{.IsoXYZ.Y}}",
 	"z": "{{.IsoXYZ.Z}}",
 	"userName": "{{.UserName}}",
-	"origin_x": 50,
-	"origin_y": 120,
-	"origin_z": 10,
+	"originX": 50,
+	"originY": 120,
+	"originZ": 10,
 	"layer": "gkTerrainObjectLayer"
 }

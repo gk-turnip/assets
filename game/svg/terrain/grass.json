@@ -1,5 +1,7 @@
 {
 	"terrain": "grass" ,
+	"originX": 50,
+	"originY": 0,
 	"layer": "gkTerrainBaseLayer",
 	"date": "2013-02-23",
 	"author": "1620469 Ontario Ltd.",

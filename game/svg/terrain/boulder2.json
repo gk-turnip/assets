@@ -1,5 +1,7 @@
 {
 	"terrain": "boulder2",
+	"originX": 100,
+	"originY": 50,
 	"layer": "gkTerrainObjectLayer",
 	"date": "2013-03-20",
 	"author": "Moehr Ossum",

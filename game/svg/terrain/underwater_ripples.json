@@ -1,5 +1,7 @@
 {
 	"terrain": "underwater_ripples",
+	"originX": 50,
+	"originY": 0,
 	"layer": "gkTerrainBaseLayer",
 	"date": "2013-02-26",
 	"author": "Earth4",
