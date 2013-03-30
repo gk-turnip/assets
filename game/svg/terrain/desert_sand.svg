@@ -15,7 +15,6 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="terrain_tile_desert_sand.svg">
-<g>
   <defs
      id="defs9112">
     <filter
@@ -117,6 +116,5 @@
            style="opacity:0.75;fill:#fff9b9;fill-opacity:1;stroke:none" />
       </g>
     </g>
-  </g>
   </g>
 </svg>
