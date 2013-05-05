@@ -1,0 +1,9 @@
+{
+	"terrain": "walkway",
+	"originX": 100,
+	"originY": 50,
+	"layer": "gkTerrainObjectLayer",
+	"date": "2013-05-05",
+	"author": "Turnip",
+	"license": "CC BY-NC 2.5 CA"
+}
