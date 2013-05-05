@@ -3,6 +3,7 @@
 	"originY": 0,
 	"objectList": [
 { "object": "cottoncandytreev1", "x": 70, "y": 10, "z": 0 },
+{ "object": "cottoncandytreev2", "x": 13, "y": 73, "z": 0 },
 { "object": "desertrock2", "x": 60, "y": 100, "z": 0 },
 { "object": "boulder1", "x": -100, "y": 0, "z": 0 },
 { "object": "boulder2", "x": 30, "y": 200, "z": 0 },
