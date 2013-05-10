@@ -10,7 +10,8 @@
 { "object": "boulder3", "x": 90, "y": 50, "z": 0 },
 { "object": "hill", "x": 75, "y": -70, "z": 0 },
 { "object": "hill", "x": 150, "y": -70, "z": 0 },
-{ "object": "walkway", "x": 110, "y": -70, "z": 0 }
+{ "object": "walkway", "x": 110, "y": -70, "z": 0 },
+{ "object": "preliminary_shrine", "x": 0, "y": 0, "z": 0 }
 ],
     "tileList": [
 { "terrain": "grass", "x": -290, "y": 0, "z": 0 },
