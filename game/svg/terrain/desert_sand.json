@@ -2,6 +2,7 @@
 	"terrain": "desert_sand",
 	"originX": 50,
 	"originY": 0,
+	"originZ": 0,
 	"layer": "gkTerrainBaseLayer",
 	"date": "2013-02-26",
 	"author": "Moehr Ossum",

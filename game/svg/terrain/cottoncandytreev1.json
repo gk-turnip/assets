@@ -2,6 +2,7 @@
 	"terrain": "cottoncandytreev1",
 	"originX": 200,
 	"originY": 300,
+	"originZ": 0,
 	"layer": "gkTerrainObjectLayer",
 	"date": "2013-03-15",
 	"author": "Fern Connelly",

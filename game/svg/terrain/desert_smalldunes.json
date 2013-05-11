@@ -2,6 +2,7 @@
 	"terrain": "desert_smalldune",
 	"originX": 50,
 	"originY": 0,
+	"originZ": 0,
 	"layer": "gkTerrainBaseLayer",
 	"date": "2013-32-20",
 	"author": "Moehr Ossum",

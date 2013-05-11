@@ -2,6 +2,7 @@
 	"terrain": "desertrock2",
 	"originX": 85,
 	"originY": 45,
+	"originZ": 0,
 	"layer": "gkTerrainObjectLayer",
 	"date": "2013-03-15",
 	"author": "Fern Connelly",

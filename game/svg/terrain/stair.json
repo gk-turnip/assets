@@ -1,0 +1,9 @@
+{
+	"terrain": "stair",
+	"originX": 50,
+	"originY": 0,
+	"originZ": -12.5,
+	"layer": "gkTerrainObjectLayer",
+	"author": "turnip",
+	"date": "2013-05-10"
+}
