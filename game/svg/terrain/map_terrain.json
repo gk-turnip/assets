@@ -1,6 +1,10 @@
 {
 	"originX": 0,
 	"originY": 0,
+	"audioList": [
+{ "clip": "stream", "x": -75, "y": 108, "z": 0 },
+{ "clip": "waterfall", "x": -20, "y": -90, "z": 0 }
+],
 	"objectList": [
 { "object": "cottoncandytreev1", "x": 70, "y": 10, "z": 0 },
 { "object": "cottoncandytreev2", "x": 13, "y": 73, "z": 0 },
