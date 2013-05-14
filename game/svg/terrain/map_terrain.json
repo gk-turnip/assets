@@ -64,6 +64,7 @@
 { "terrain": "grass", "x": -170, "y": -110, "z": 0 },
 { "terrain": "grass", "x": -170, "y": -120, "z": 0 },
 { "terrain": "grass", "x": -160, "y": -120, "z": 0 },
+{ "terrain": "grass", "x": -160, "y": -120, "z": 0 },
 { "terrain": "grass", "x": -150, "y": -130, "z": 0 },
 { "terrain": "grass", "x": -150, "y": -140, "z": 0 },
 { "terrain": "grass", "x": -140, "y": -140, "z": 0 },
