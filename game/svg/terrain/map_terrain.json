@@ -1,6 +1,10 @@
 {
 	"originX": 0,
 	"originY": 0,
+	"audioList": [
+{ "clip": "stream", "x": -1150, "y": -50, "z": 0 },
+{ "clip": "waterfall", "x": -20, "y": -90, "z": 0 }
+],
 	"objectList": [
 { "object": "cottoncandytreev1", "x": 70, "y": 10, "z": 0 },
 { "object": "cottoncandytreev2", "x": 13, "y": 73, "z": 0 },
@@ -60,7 +64,6 @@
 { "terrain": "grass", "x": -170, "y": -110, "z": 0 },
 { "terrain": "grass", "x": -170, "y": -120, "z": 0 },
 { "terrain": "grass", "x": -160, "y": -120, "z": 0 },
-{ "terrain": "grass", "x": -160, "y": -130, "z": 0 },
 { "terrain": "grass", "x": -150, "y": -130, "z": 0 },
 { "terrain": "grass", "x": -150, "y": -140, "z": 0 },
 { "terrain": "grass", "x": -140, "y": -140, "z": 0 },
