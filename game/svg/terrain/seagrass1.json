@@ -1,9 +1,9 @@
 {
 	"terrain": "seagrass1",
-	"originX": 50,
-	"originY": 0,
+	"originX": 5,
+	"originY": 10,
 	"originZ": 0,
-	"layer": "gkTerrainBaseLayer",
+	"layer": "gkTerrainObjectLayer",
 	"date": "2013-03-15",
 	"author": "Fern Connelly",
 	"license": "unknown"

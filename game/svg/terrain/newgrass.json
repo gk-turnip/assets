@@ -1,6 +1,9 @@
 {
-	"subTerrain": "newgrass",
-	"layer": "gkTerrainBaseLayer",
+	"terrain": "newgrass",
+	"originX": 5,
+	"originY": 10,
+	"originZ": 0,
+	"layer": "gkTerrainObjectLayer",
 	"date": "2013-03-15",
 	"author": "Fern Connelly",
 	"license": "unknown"
