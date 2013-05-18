@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="75"
+   width="50"
+   version="1.1"
+   id="svg3265"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="test.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1262"
+     inkscape:window-height="1036"
+     id="namedview3303"
+     showgrid="false"
+     inkscape:zoom="8.9001173"
+     inkscape:cx="25"
+     inkscape:cy="37.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3265" />
+  <defs
+     id="defs3267">
+    <linearGradient
+       id="linearGradient9986-0-1-3-1-1"
+       y2="787.79"
+       xlink:href="#linearGradient7249-3-5-7-1-8-2"
+       gradientUnits="userSpaceOnUse"
+       y1="794.86"
+       x2="642.23"
+       x1="714.57" />
+    <linearGradient
+       id="linearGradient7249-3-5-7-1-8-2">
+      <stop
+         stop-color="#0bbf8e"
+         offset="0"
+         id="stop3271" />
+      <stop
+         stop-color="#00d977"
+         offset="0.16375"
+         id="stop3273" />
+      <stop
+         stop-color="#00ca7e"
+         offset="0.25683"
+         id="stop3275" />
+      <stop
+         stop-color="#00a270"
+         offset="0.42533"
+         id="stop3277" />
+      <stop
+         stop-color="#00dc99"
+         offset="0.62983"
+         id="stop3279" />
+      <stop
+         stop-color="#009351"
+         offset="0.80033"
+         id="stop3281" />
+      <stop
+         stop-color="#930052"
+         offset="1"
+         id="stop3283" />
+    </linearGradient>
+    <filter
+       id="filter8705-8-7-6-6-6-1"
+       color-interpolation-filters="sRGB"
+       width="1"
+       y="0"
+       x="0"
+       height="1">
+      <feTurbulence
+         numOctaves="5"
+         seed="0"
+         type="fractalNoise"
+         baseFrequency="0.08"
+         id="feTurbulence3286" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result91"
+         id="feGaussianBlur3288" />
+      <feDisplacementMap
+         scale="20"
+         yChannelSelector="G"
+         in2="result91"
+         result="result1"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         id="feDisplacementMap3290" />
+      <feComposite
+         operator="atop"
+         in2="SourceGraphic"
+         in="result1"
+         id="feComposite3292" />
+    </filter>
+    <linearGradient
+       id="linearGradient11693"
+       y2="826.66"
+       xlink:href="#linearGradient7249-3-5-7-1-8-2"
+       gradientUnits="userSpaceOnUse"
+       y1="759.52"
+       x2="661.15"
+       x1="697.45" />
+  </defs>
+  <metadata
+     id="metadata3295">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g3299"
+     style="opacity:0.6;fill:url(#linearGradient9986-0-1-3-1-1);filter:url(#filter8705-8-7-6-6-6-1)"
+     transform="translate(-3.4831002,-1.1235807)">
+    <path
+       d="M 54.8,76.17 3.8,51.428 3.8,1.17 54.8,26.685 z"
+       id="path3301"
+       style="fill:url(#linearGradient11693)"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
+

@@ -1,0 +1,10 @@
+{
+	"terrain": "water_lily",
+	"originX": 10,
+	"originY": 10,
+	"originZ": 0,
+	"layer": "gkTerrainObjectLayer",
+	"date": "2013-05-16",
+	"author": "Moehr Ossum",
+	"license": "CC BY-SA"
+}

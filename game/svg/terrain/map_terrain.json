@@ -24,13 +24,14 @@
 { "object": "stair", "x": -20, "y": 210, "z": 150 },
 { "object": "stair", "x": -20, "y": 220, "z": 100 },
 { "object": "stair", "x": -20, "y": 230, "z": 50 },
-{ "object": "stair", "x": 0, "y": 0, "z": 100 },
 { "object": "preliminary_shrine", "x": -20, "y": -90, "z": 0 },
 { "object": "pond", "x": -100, "y": 80, "z": 0 },
+{ "object": "water_lily", "x": -70, "y": 90, "z": 0 },
 { "object": "seagrass1", "x": -90, "y": 100, "z": 0 },
 { "object": "seagrass1", "x": -80, "y": 70, "z": 0 },
 { "object": "newgrass", "x": -60, "y": 75, "z": 0 },
-{ "object": "newgrass", "x": -50, "y": 125, "z": 0 }
+{ "object": "newgrass", "x": -50, "y": 125, "z": 0 },
+{ "object": "water_lily", "x": -220, "y": 30, "z": 0 }
 ],
 	"elevationList": [
 { "x": -20, "y": 150, "z": 50 },
@@ -357,7 +358,7 @@
 { "terrain": "grass", "x": -230, "y": 50, "z": 0 },
 { "terrain": "grass", "x": -230, "y": 40, "z": 0 },
 { "terrain": "grass", "x": -220, "y": 40, "z": 0 },
-{ "terrain": "grass", "x": -220, "y": 30, "z": 0 },
+{ "terrain": "desert_sand", "x": -220, "y": 30, "z": 0 },
 { "terrain": "grass", "x": -210, "y": 30, "z": 0 },
 { "terrain": "grass", "x": -210, "y": 20, "z": 0 },
 { "terrain": "grass", "x": -200, "y": 20, "z": 0 },
