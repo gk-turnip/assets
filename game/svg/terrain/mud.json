@@ -1,0 +1,10 @@
+{
+	"terrain": "mud",
+	"originX": 50,
+	"originY": 0,
+	"originZ": 0,
+	"layer": "gkTerrainBaseLayer",
+	"date": "2013-05-18",
+	"author": "Earth4",
+	"license": "CC BY-SA"
+}
