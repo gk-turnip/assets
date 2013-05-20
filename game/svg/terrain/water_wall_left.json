@@ -1,6 +1,6 @@
 {
 	"terrain": "water_wall_left",
-	"originX": 0,
+	"originX": 50,
 	"originY": 25,
 	"originZ": 0,
 	"layer": "gkTerrainObjectLayer",
