@@ -1,0 +1,8 @@
+{
+	"terrain": "fern_2d",
+	"originX": 50,
+	"originY": 0,
+	"originZ": 0,
+	"layer": "gkTerrainBaseLayer",
+	"date": "2013-02-26"
+}
