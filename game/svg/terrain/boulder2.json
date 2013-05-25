@@ -1,7 +1,7 @@
 {
 	"terrain": "boulder2",
-	"originX": 100,
-	"originY": 50,
+	"originX": 91,
+	"originY": 61,
 	"originZ": 0,
 	"layer": "gkTerrainObjectLayer",
 	"date": "2013-03-20",

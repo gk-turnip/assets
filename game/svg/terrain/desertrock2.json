@@ -1,7 +1,7 @@
 {
 	"terrain": "desertrock2",
-	"originX": 85,
-	"originY": 45,
+	"originX": 83,
+	"originY": 100,
 	"originZ": 0,
 	"layer": "gkTerrainObjectLayer",
 	"date": "2013-03-15",
