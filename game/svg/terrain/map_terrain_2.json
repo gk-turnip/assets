@@ -1,0 +1,71 @@
+{
+	"originX": 0,
+	"originY": 0,
+	"audioList": [],
+	"objectList": [
+{ "object": "desertrock2", "x": -10, "y": -10, "z": 0 },
+{ "object": "pod_1", "podId": "1", "x": 20, "y": 20, "z": 0 }
+],
+	"wallList": [],
+	"elevationList": [],
+    "tileList": [
+{ "terrain": "fern_2d", "x": 0, "y": 0, "z": 0 },
+
+{ "terrain": "grass", "x": -30, "y": -30, "z": 0 },
+{ "terrain": "grass", "x": -20, "y": -30, "z": 0 },
+{ "terrain": "grass", "x": -10, "y": -30, "z": 0 },
+{ "terrain": "grass", "x": 0, "y": -30, "z": 0 },
+{ "terrain": "grass", "x": 10, "y": -30, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": -30, "z": 0 },
+{ "terrain": "grass", "x": 30, "y": -30, "z": 0 },
+
+{ "terrain": "grass", "x": -30, "y": -20, "z": 0 },
+{ "terrain": "grass", "x": -20, "y": -20, "z": 0 },
+{ "terrain": "grass", "x": -10, "y": -20, "z": 0 },
+{ "terrain": "grass", "x": 0, "y": -20, "z": 0 },
+{ "terrain": "grass", "x": 10, "y": -20, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": -20, "z": 0 },
+{ "terrain": "grass", "x": 30, "y": -20, "z": 0 },
+
+{ "terrain": "grass", "x": -30, "y": -10, "z": 0 },
+{ "terrain": "grass", "x": -20, "y": -10, "z": 0 },
+{ "terrain": "grass", "x": -10, "y": -10, "z": 0 },
+{ "terrain": "grass", "x": 0, "y": -10, "z": 0 },
+{ "terrain": "grass", "x": 10, "y": -10, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": -10, "z": 0 },
+{ "terrain": "grass", "x": 30, "y": -10, "z": 0 },
+
+{ "terrain": "grass", "x": -30, "y": 0, "z": 0 },
+{ "terrain": "grass", "x": -20, "y": 0, "z": 0 },
+{ "terrain": "grass", "x": -10, "y": 0, "z": 0 },
+{ "terrain": "fern_2d", "x": 0, "y": 0, "z": 0 },
+{ "terrain": "grass", "x": 10, "y": 0, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": 0, "z": 0 },
+{ "terrain": "grass", "x": 30, "y": 0, "z": 0 },
+
+{ "terrain": "grass", "x": -30, "y": 10, "z": 0 },
+{ "terrain": "grass", "x": -20, "y": 10, "z": 0 },
+{ "terrain": "grass", "x": -10, "y": 10, "z": 0 },
+{ "terrain": "grass", "x": 0, "y": 10, "z": 0 },
+{ "terrain": "grass", "x": 10, "y": 10, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": 10, "z": 0 },
+{ "terrain": "grass", "x": 30, "y": 10, "z": 0 },
+
+{ "terrain": "grass", "x": -30, "y": 20, "z": 0 },
+{ "terrain": "grass", "x": -20, "y": 20, "z": 0 },
+{ "terrain": "grass", "x": -10, "y": 20, "z": 0 },
+{ "terrain": "grass", "x": 0, "y": 20, "z": 0 },
+{ "terrain": "grass", "x": 10, "y": 20, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": 20, "z": 0 },
+{ "terrain": "grass", "x": 30, "y": 20, "z": 0 },
+
+{ "terrain": "grass", "x": -30, "y": 30, "z": 0 },
+{ "terrain": "grass", "x": -20, "y": 30, "z": 0 },
+{ "terrain": "grass", "x": -10, "y": 30, "z": 0 },
+{ "terrain": "grass", "x": 0, "y": 30, "z": 0 },
+{ "terrain": "grass", "x": 10, "y": 30, "z": 0 },
+{ "terrain": "grass", "x": 20, "y": 30, "z": 0 },
+{ "terrain": "grass", "x": 30, "y": 30, "z": 0 }
+
+    ]
+}
