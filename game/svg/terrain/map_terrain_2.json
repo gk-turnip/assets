@@ -1,10 +1,11 @@
 {
 	"originX": 0,
 	"originY": 0,
+	"originZ": 0,
 	"audioList": [],
 	"objectList": [
 { "object": "desertrock2", "x": -10, "y": -10, "z": 0 },
-{ "object": "pod_1", "podId": "1", "x": 20, "y": 20, "z": 0 }
+{ "object": "pod_1", "podId": "1", "x": 20, "y": 20, "z": 0, "destination": { "x": 125, "y": 5, "z": 0 } }
 ],
 	"wallList": [],
 	"elevationList": [],

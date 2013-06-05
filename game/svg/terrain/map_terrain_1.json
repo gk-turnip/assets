@@ -1,6 +1,7 @@
 {
 	"originX": 0,
 	"originY": 0,
+	"originZ": 0,
 	"audioList": [
 { "clip": "stream", "x": -75, "y": 108, "z": 0 },
 { "clip": "waterfall", "x": -20, "y": -90, "z": 0 }
@@ -81,7 +82,7 @@
 { "object": "stair", "x": -210, "y": -30, "z": 15 },
 { "object": "stair", "x": -210, "y": -20, "z": 20 },
 { "object": "stair", "x": -210, "y": -10, "z": 25 },
-{ "object": "pod_2", "podId": "2", "x": 125, "y": 5, "z": 0 }
+{ "object": "pod_2", "podId": "2", "x": 125, "y": 5, "z": 0, "destination": { "x": 20, "y": 20, "z": 0 } }
 ],
 	"elevationList": [
 { "x": -20, "y": 150, "z": 5 },
