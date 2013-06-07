@@ -3,7 +3,7 @@
 	"originX": 42,
 	"originY": 30,
 	"originZ": 0,
-	"layer": "gkTerrainInteractiveLayer",
+	"layer": "gkTerrainObjectLayer",
 	"date": "2013-05-26",
 	"author": "1620469 Ontario Ltd.",
 	"license": "CC BY-NC 2.5 CA"

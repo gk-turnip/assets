@@ -1,0 +1,11 @@
+{
+	"terrain": "pod_static",
+	"originX": 42,
+	"originY": 30,
+	"originZ": 0,
+	"layer": "gkTerrainInteractiveLayer",
+	"date": "2013-06-07",
+	"author": "Earth4",
+	"license": "CC BY-SA",
+	"yesFront": true
+}
