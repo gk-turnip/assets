@@ -1,0 +1,10 @@
+{
+	"terrain": "platform1",
+	"originX": 500,
+	"originY": 0,
+	"originZ": 0,
+	"layer": "gkTerrainObjectLayer",
+	"author": "turnip",
+	"license": "CC BY-NC 2.5 CA",
+	"date": "2013-06-08"
+}
