@@ -1,0 +1,10 @@
+{
+	"terrain": "blank" ,
+	"originX": 50,
+	"originY": 0,
+	"originZ": 0,
+	"layer": "gkTerrainBaseLayer",
+	"date": "2013-06-09",
+	"author": "1620469 Ontario Ltd.",
+	"license": "CC BY-NC 2.5 CA"
+}
