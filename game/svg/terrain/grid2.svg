@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="500"
+   id="svg10264"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="grid2.svg">
+  <metadata
+     id="metadata10435">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10433" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1499"
+     inkscape:window-height="981"
+     id="namedview10431"
+     showgrid="false"
+     inkscape:zoom="0.332"
+     inkscape:cx="500"
+     inkscape:cy="731.92771"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10264" />
+  <g id="grid">
+  <path
+     fill="#efefef"
+     stroke="#000000"
+     d="m0,25l50,-25l50,25l-50,25l-50,-25z"
+     id="diam" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-00,1025l2000,-1000z"
+     id="path10267" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-50,1000l2000,-1000z"
+     id="path10269" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-100,975l2000,-1000z"
+     id="path10271" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-150,950l2000,-1000z"
+     id="path10273" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-200,925l2000,-1000z"
+     id="path10275" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-250,900l2000,-1000z"
+     id="path10277" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-300,875l2000,-1000z"
+     id="path10279" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-350,850l2000,-1000z"
+     id="path10281" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-400,825l2000,-1000z"
+     id="path10283" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-450,800l2000,-1000z"
+     id="path10285" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-500,775l2000,-1000z"
+     id="path10287" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-550,750l2000,-1000z"
+     id="path10289" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-600,725l2000,-1000z"
+     id="path10291" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-650,700l2000,-1000z"
+     id="path10293" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-700,675l2000,-1000z"
+     id="path10295" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-750,650l2000,-1000z"
+     id="path10297" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-800,625l2000,-1000z"
+     id="path10299" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-850,600l2000,-1000z"
+     id="path10301" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-900,575l2000,-1000z"
+     id="path10303" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-950,550l2000,-1000z"
+     id="path10305" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1000,525l2000,-1000z"
+     id="path10307" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1050,500l2000,-1000z"
+     id="path10309" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-450,-750l2000,1000z"
+     id="path10367" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-500,-725l2000,1000z"
+     id="path10369" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-550,-700l2000,1000z"
+     id="path10371" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-600,-675l2000,1000z"
+     id="path10373" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-650,-650l2000,1000z"
+     id="path10375" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-700,-625l2000,1000z"
+     id="path10377" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-750,-600l2000,1000z"
+     id="path10379" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-800,-575l2000,1000z"
+     id="path10381" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-850,-550l2000,1000z"
+     id="path10383" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-900,-525l2000,1000z"
+     id="path10385" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-950,-500l2000,1000z"
+     id="path10387" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1000,-475l2000,1000z"
+     id="path10389" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1050,-450l2000,1000z"
+     id="path10391" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1100,-425l2000,1000z"
+     id="path10393" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1150,-400l2000,1000z"
+     id="path10395" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1200,-375l2000,1000z"
+     id="path10397" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1250,-350l2000,1000z"
+     id="path10399" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1300,-325l2000,1000z"
+     id="path10401" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1350,-300l2000,1000z"
+     id="path10403" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1400,-275l2000,1000z"
+     id="path10405" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1450,-250l2000,1000z"
+     id="path10407" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1500,-225l2000,1000z"
+     id="path10409" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m-1550,-200l2000,1000z"
+     id="path10411" />
+  </g>
+</svg>
