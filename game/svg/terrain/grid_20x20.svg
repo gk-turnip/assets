@@ -1,0 +1,89 @@
+<svg width="2000" height ="1000" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <line fill="none" stroke="#000000" x1="0" y1="25" x2="50" y2="0" id="line_1"/>
+  <line fill="none" stroke="#000000" x1="0" y1="25" x2="1950" y2="1000" id="line_2"/>
+  <line fill="none" stroke="#000000" x1="50" y1="0" x2="2000" y2="975" id="line_3"/>
+  <line fill="none" stroke="#000000" x1="1950" y1="1000" x2="2000" y2="975" id="line_4"/>
+
+  <line fill="none" stroke="#000000" x1="0" y1="75" x2="150" y2="0" id="line_5"/>
+  <line fill="none" stroke="#000000" x1="0" y1="75" x2="1850" y2="1000" id="line_6"/>
+  <line fill="none" stroke="#000000" x1="150" y1="0" x2="2000" y2="925" id="line_7"/>
+  <line fill="none" stroke="#000000" x1="1850" y1="1000" x2="2000" y2="925" id="line_8"/>
+
+  <line fill="none" stroke="#000000" x1="0" y1="125" x2="250" y2="0" id="line_9"/>
+  <line fill="none" stroke="#000000" x1="0" y1="125" x2="1750" y2="1000" id="line_10"/>
+  <line fill="none" stroke="#000000" x1="250" y1="0" x2="2000" y2="875" id="line_11"/>
+  <line fill="none" stroke="#000000" x1="1750" y1="1000" x2="2000" y2="875" id="line_12"/>
+
+  <line fill="none" stroke="#000000" x1="0" y1="175" x2="350" y2="0" id="line_13"/>
+  <line fill="none" stroke="#000000" x1="0" y1="175" x2="1650" y2="1000" id="line_14"/>
+  <line fill="none" stroke="#000000" x1="350" y1="0" x2="2000" y2="825" id="line_15"/>
+  <line fill="none" stroke="#000000" x1="1650" y1="1000" x2="2000" y2="825" id="line_16"/>
+
+  <line fill="none" stroke="#000000" x1="0" y1="225" x2="450" y2="0" id="line_17"/>
+  <line fill="none" stroke="#000000" x1="0" y1="225" x2="1550" y2="1000" id="line_18"/>
+  <line fill="none" stroke="#000000" x1="450" y1="0" x2="2000" y2="775" id="line_19"/>
+  <line fill="none" stroke="#000000" x1="1550" y1="1000" x2="2000" y2="775" id="line_20"/>
+  <line fill="none" stroke="#000000" x1="0" y1="275" x2="550" y2="0" id="line_21"/>
+  <line fill="none" stroke="#000000" x1="0" y1="275" x2="1450" y2="1000" id="line_22"/>
+  <line fill="none" stroke="#000000" x1="550" y1="0" x2="2000" y2="725" id="line_23"/>
+  <line fill="none" stroke="#000000" x1="1450" y1="1000" x2="2000" y2="725" id="line_24"/>
+  <line fill="none" stroke="#000000" x1="0" y1="325" x2="650" y2="0" id="line_25"/>
+  <line fill="none" stroke="#000000" x1="0" y1="325" x2="1350" y2="1000" id="line_26"/>
+  <line fill="none" stroke="#000000" x1="650" y1="0" x2="2000" y2="675" id="line_27"/>
+  <line fill="none" stroke="#000000" x1="1350" y1="1000" x2="2000" y2="675" id="line_28"/>
+  <line fill="none" stroke="#000000" x1="0" y1="375" x2="750" y2="0" id="line_29"/>
+  <line fill="none" stroke="#000000" x1="0" y1="375" x2="1250" y2="1000" id="line_30"/>
+  <line fill="none" stroke="#000000" x1="750" y1="0" x2="2000" y2="625" id="line_31"/>
+  <line fill="none" stroke="#000000" x1="1250" y1="1000" x2="2000" y2="625" id="line_32"/>
+  <line fill="none" stroke="#000000" x1="0" y1="425" x2="850" y2="0" id="line_33"/>
+  <line fill="none" stroke="#000000" x1="0" y1="425" x2="1150" y2="1000" id="line_34"/>
+  <line fill="none" stroke="#000000" x1="850" y1="0" x2="2000" y2="575" id="line_35"/>
+  <line fill="none" stroke="#000000" x1="1150" y1="1000" x2="2000" y2="575" id="line_36"/>
+  <line fill="none" stroke="#000000" x1="0" y1="475" x2="950" y2="0" id="line_37"/>
+  <line fill="none" stroke="#000000" x1="0" y1="475" x2="1050" y2="1000" id="line_38"/>
+  <line fill="none" stroke="#000000" x1="950" y1="0" x2="2000" y2="525" id="line_39"/>
+  <line fill="none" stroke="#000000" x1="1050" y1="1000" x2="2000" y2="525" id="line_40"/>
+  <line fill="none" stroke="#000000" x1="0" y1="525" x2="1050" y2="0" id="line_41"/>
+  <line fill="none" stroke="#000000" x1="0" y1="525" x2="950" y2="1000" id="line_42"/>
+  <line fill="none" stroke="#000000" x1="1050" y1="0" x2="2000" y2="475" id="line_43"/>
+  <line fill="none" stroke="#000000" x1="950" y1="1000" x2="2000" y2="475" id="line_44"/>
+  <line fill="none" stroke="#000000" x1="0" y1="575" x2="1150" y2="0" id="line_45"/>
+  <line fill="none" stroke="#000000" x1="0" y1="575" x2="850" y2="1000" id="line_46"/>
+  <line fill="none" stroke="#000000" x1="1150" y1="0" x2="2000" y2="425" id="line_47"/>
+  <line fill="none" stroke="#000000" x1="850" y1="1000" x2="2000" y2="425" id="line_48"/>
+  <line fill="none" stroke="#000000" x1="0" y1="625" x2="1250" y2="0" id="line_49"/>
+  <line fill="none" stroke="#000000" x1="0" y1="625" x2="750" y2="1000" id="line_50"/>
+  <line fill="none" stroke="#000000" x1="1250" y1="0" x2="2000" y2="375" id="line_51"/>
+  <line fill="none" stroke="#000000" x1="750" y1="1000" x2="2000" y2="375" id="line_52"/>
+  <line fill="none" stroke="#000000" x1="0" y1="675" x2="1350" y2="0" id="line_53"/>
+  <line fill="none" stroke="#000000" x1="0" y1="675" x2="650" y2="1000" id="line_54"/>
+  <line fill="none" stroke="#000000" x1="1350" y1="0" x2="2000" y2="325" id="line_55"/>
+  <line fill="none" stroke="#000000" x1="650" y1="1000" x2="2000" y2="325" id="line_56"/>
+  <line fill="none" stroke="#000000" x1="0" y1="725" x2="1450" y2="0" id="line_57"/>
+  <line fill="none" stroke="#000000" x1="0" y1="725" x2="550" y2="1000" id="line_58"/>
+  <line fill="none" stroke="#000000" x1="1450" y1="0" x2="2000" y2="275" id="line_59"/>
+  <line fill="none" stroke="#000000" x1="550" y1="1000" x2="2000" y2="275" id="line_60"/>
+  <line fill="none" stroke="#000000" x1="0" y1="775" x2="1550" y2="0" id="line_61"/>
+  <line fill="none" stroke="#000000" x1="0" y1="775" x2="450" y2="1000" id="line_62"/>
+  <line fill="none" stroke="#000000" x1="1550" y1="0" x2="2000" y2="225" id="line_63"/>
+  <line fill="none" stroke="#000000" x1="450" y1="1000" x2="2000" y2="225" id="line_64"/>
+  <line fill="none" stroke="#000000" x1="0" y1="825" x2="1650" y2="0" id="line_65"/>
+  <line fill="none" stroke="#000000" x1="0" y1="825" x2="350" y2="1000" id="line_66"/>
+  <line fill="none" stroke="#000000" x1="1650" y1="0" x2="2000" y2="175" id="line_67"/>
+  <line fill="none" stroke="#000000" x1="350" y1="1000" x2="2000" y2="175" id="line_68"/>
+  <line fill="none" stroke="#000000" x1="0" y1="875" x2="1750" y2="0" id="line_69"/>
+  <line fill="none" stroke="#000000" x1="0" y1="875" x2="250" y2="1000" id="line_70"/>
+  <line fill="none" stroke="#000000" x1="1750" y1="0" x2="2000" y2="125" id="line_71"/>
+  <line fill="none" stroke="#000000" x1="250" y1="1000" x2="2000" y2="125" id="line_72"/>
+  <line fill="none" stroke="#000000" x1="0" y1="925" x2="1850" y2="0" id="line_73"/>
+  <line fill="none" stroke="#000000" x1="0" y1="925" x2="150" y2="1000" id="line_74"/>
+  <line fill="none" stroke="#000000" x1="1850" y1="0" x2="2000" y2="75" id="line_75"/>
+  <line fill="none" stroke="#000000" x1="150" y1="1000" x2="2000" y2="75" id="line_76"/>
+  <line fill="none" stroke="#000000" x1="0" y1="975" x2="1950" y2="0" id="line_77"/>
+  <line fill="none" stroke="#000000" x1="0" y1="975" x2="50" y2="1000" id="line_78"/>
+  <line fill="none" stroke="#000000" x1="1950" y1="0" x2="2000" y2="25" id="line_79"/>
+  <line fill="none" stroke="#000000" x1="50" y1="1000" x2="2000" y2="25" id="line_80"/>
+ </g>
+</svg>

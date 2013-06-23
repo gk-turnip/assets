@@ -1,0 +1,24 @@
+<svg width="500" height ="250" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <line fill="none" stroke="#000000" x1="0" y1="25" x2="50" y2="0" id="line_1"/>
+  <line fill="none" stroke="#000000" x1="0" y1="25" x2="450" y2="250" id="line_2"/>
+  <line fill="none" stroke="#000000" x1="50" y1="0" x2="500" y2="225" id="line_3"/>
+  <line fill="none" stroke="#000000" x1="450" y1="250" x2="500" y2="225" id="line_4"/>
+  <line fill="none" stroke="#000000" x1="0" y1="75" x2="150" y2="0" id="line_5"/>
+  <line fill="none" stroke="#000000" x1="0" y1="75" x2="350" y2="250" id="line_6"/>
+  <line fill="none" stroke="#000000" x1="150" y1="0" x2="500" y2="175" id="line_7"/>
+  <line fill="none" stroke="#000000" x1="350" y1="250" x2="500" y2="175" id="line_8"/>
+  <line fill="none" stroke="#000000" x1="0" y1="125" x2="250" y2="0" id="line_9"/>
+  <line fill="none" stroke="#000000" x1="0" y1="125" x2="250" y2="250" id="line_10"/>
+  <line fill="none" stroke="#000000" x1="250" y1="0" x2="500" y2="125" id="line_11"/>
+  <line fill="none" stroke="#000000" x1="250" y1="250" x2="500" y2="125" id="line_12"/>
+  <line fill="none" stroke="#000000" x1="0" y1="175" x2="350" y2="0" id="line_13"/>
+  <line fill="none" stroke="#000000" x1="0" y1="175" x2="150" y2="250" id="line_14"/>
+  <line fill="none" stroke="#000000" x1="350" y1="0" x2="500" y2="75" id="line_15"/>
+  <line fill="none" stroke="#000000" x1="150" y1="250" x2="500" y2="75" id="line_16"/>
+  <line fill="none" stroke="#000000" x1="0" y1="225" x2="450" y2="0" id="line_17"/>
+  <line fill="none" stroke="#000000" x1="0" y1="225" x2="50" y2="250" id="line_18"/>
+  <line fill="none" stroke="#000000" x1="450" y1="0" x2="500" y2="25" id="line_19"/>
+  <line fill="none" stroke="#000000" x1="50" y1="250" x2="500" y2="25" id="line_20"/>
+ </g>
+</svg>

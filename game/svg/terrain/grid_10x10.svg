@@ -1,0 +1,47 @@
+<svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <line fill="none" stroke="#000000" x1="0" y1="25" x2="50" y2="0" id="svg_1"/>
+  <line fill="none" stroke="#000000" x1="0" y1="25" x2="950" y2="500" id="svg_2"/>
+  <line fill="none" stroke="#000000" x1="50" y1="0" x2="1000" y2="475" id="svg_3"/>
+  <line fill="none" stroke="#000000" x1="950" y1="500" x2="1000" y2="475" id="svg_4"/>
+  <line fill="none" stroke="#000000" x1="0" y1="75" x2="150" y2="0" id="svg_5"/>
+  <line fill="none" stroke="#000000" x1="0" y1="75" x2="850" y2="500" id="svg_6"/>
+  <line fill="none" stroke="#000000" x1="150" y1="0" x2="1000" y2="425" id="svg_7"/>
+  <line fill="none" stroke="#000000" x1="850" y1="500" x2="1000" y2="425" id="svg_8"/>
+  <line fill="none" stroke="#000000" x1="0" y1="125" x2="250" y2="0" id="svg_9"/>
+  <line fill="none" stroke="#000000" x1="0" y1="125" x2="750" y2="500" id="svg_10"/>
+  <line fill="none" stroke="#000000" x1="250" y1="0" x2="1000" y2="375" id="svg_11"/>
+  <line fill="none" stroke="#000000" x1="750" y1="500" x2="1000" y2="375" id="svg_12"/>
+  <line fill="none" stroke="#000000" x1="0" y1="175" x2="350" y2="0" id="svg_13"/>
+  <line fill="none" stroke="#000000" x1="0" y1="175" x2="650" y2="500" id="svg_14"/>
+  <line fill="none" stroke="#000000" x1="350" y1="0" x2="1000" y2="325" id="svg_15"/>
+  <line fill="none" stroke="#000000" x1="650" y1="500" x2="1000" y2="325" id="svg_16"/>
+  <line fill="none" stroke="#000000" x1="0" y1="225" x2="450" y2="0" id="svg_17"/>
+  <line fill="none" stroke="#000000" x1="0" y1="225" x2="550" y2="500" id="svg_18"/>
+  <line fill="none" stroke="#000000" x1="450" y1="0" x2="1000" y2="275" id="svg_19"/>
+  <line fill="none" stroke="#000000" x1="550" y1="500" x2="1000" y2="275" id="svg_20"/>
+  <line fill="none" stroke="#000000" x1="0" y1="275" x2="550" y2="0" id="svg_21"/>
+  <line fill="none" stroke="#000000" x1="0" y1="275" x2="450" y2="500" id="svg_22"/>
+  <line fill="none" stroke="#000000" x1="550" y1="0" x2="1000" y2="225" id="svg_23"/>
+  <line fill="none" stroke="#000000" x1="450" y1="500" x2="1000" y2="225" id="svg_24"/>
+  <line fill="none" stroke="#000000" x1="0" y1="325" x2="650" y2="0" id="svg_25"/>
+  <line fill="none" stroke="#000000" x1="0" y1="325" x2="350" y2="500" id="svg_26"/>
+  <line fill="none" stroke="#000000" x1="650" y1="0" x2="1000" y2="175" id="svg_27"/>
+  <line fill="none" stroke="#000000" x1="350" y1="500" x2="1000" y2="175" id="svg_28"/>
+  <line fill="none" stroke="#000000" x1="0" y1="375" x2="750" y2="0" id="svg_29"/>
+  <line fill="none" stroke="#000000" x1="0" y1="375" x2="250" y2="500" id="svg_30"/>
+  <line fill="none" stroke="#000000" x1="750" y1="0" x2="1000" y2="125" id="svg_31"/>
+  <line fill="none" stroke="#000000" x1="250" y1="500" x2="1000" y2="125" id="svg_32"/>
+  <line fill="none" stroke="#000000" x1="0" y1="425" x2="850" y2="0" id="svg_23"/>
+  <line fill="none" stroke="#000000" x1="0" y1="425" x2="150" y2="500" id="svg_34"/>
+  <line fill="none" stroke="#000000" x1="850" y1="0" x2="1000" y2="75" id="svg_35"/>
+  <line fill="none" stroke="#000000" x1="150" y1="500" x2="1000" y2="75" id="svg_36"/>
+  <line fill="none" stroke="#000000" x1="0" y1="475" x2="950" y2="0" id="svg_27"/>
+  <line fill="none" stroke="#000000" x1="0" y1="475" x2="50" y2="500" id="svg_38"/>
+  <line fill="none" stroke="#000000" x1="950" y1="0" x2="1000" y2="25" id="svg_39"/>
+  <line fill="none" stroke="#000000" x1="50" y1="500" x2="1000" y2="25" id="svg_40"/>
+ </g>
+</svg>
