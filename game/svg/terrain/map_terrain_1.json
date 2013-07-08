@@ -82,7 +82,8 @@
 { "object": "stair", "x": -210, "y": -30, "z": 15 },
 { "object": "stair", "x": -210, "y": -20, "z": 20 },
 { "object": "stair", "x": -210, "y": -10, "z": 25 },
-{ "object": "pod_2", "podId": "2", "x": 125, "y": 5, "z": 0, "destination": { "x": 10, "y": 10, "z": 0 } }
+{ "object": "pod_2", "podId": "2", "x": 125, "y": 5, "z": 0, "destination": { "x": 10, "y": 10, "z": 0 } },
+{ "object": "pod_3", "podId": "3", "x": -60, "y": -30, "z": 0, "destination": { "x": 0, "y": 0, "z": 0 } }
 ],
 	"elevationList": [],
 	"wallList": [
