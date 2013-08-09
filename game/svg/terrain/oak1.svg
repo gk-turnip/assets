@@ -39,6 +39,7 @@
      inkscape:current-layer="svg2" />
   <defs
      id="defs4" />
+	<g transform="scale(4)">
   <g
      transform="matrix(0.2,0,0,0.2,1,72)"
      id="g4132">
@@ -2999,5 +3000,6 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+  </g>
   </g>
 </svg>

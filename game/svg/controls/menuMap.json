@@ -1,0 +1,118 @@
+{
+	"menu": [
+		{
+			"display": "start",
+			"goto": "start"
+		}
+	],
+	"start": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "screen",
+			"goto": "screen"
+		},
+		{
+			"display": "volume",
+			"goto": "volume"
+		}
+	],
+	"screen": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "widthHeight",
+			"goto": "widthHeight"
+		},
+		{
+			"display": "zoom",
+			"goto": "zoom"
+		},
+		{
+			"display": "fps",
+			"goto": "fps"
+		},
+		{
+			"display": "pos",
+			"goto": "pos"
+		},
+		{
+			"display": "chat",
+			"goto": "chat"
+		}
+	],
+	"widthHeight": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "widthHeightPad"
+		}
+	],
+	"zoom": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "zoomPad"
+		}
+	],
+	"fps": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "fpsPad"
+		}
+	],
+	"pos": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "posPad"
+		}
+	],
+	"chat": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "chatPad"
+		}
+	],
+	"volume": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "backgroundVolume",
+			"goto": "backgroundVolume"
+		},
+		{
+			"display": "effectsVolume",
+			"goto": "effectsVolume"
+		}
+	],
+	"backgroundVolume": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "backgroundVolumePad"
+		}
+	],
+	"effectsVolume": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "effectsVolumePad"
+		}
+	],
+	"date": "2013-08-04",
+	"author": "1620469 Ontario Ltd.",
+	"license": "CC BY-NC 2.5 CA"
+}

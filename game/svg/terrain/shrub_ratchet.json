@@ -1,0 +1,10 @@
+{
+	"terrain": "shrub_ratchet",
+	"originX": 84,
+	"originY": 113,
+	"originZ": 0,
+	"layer": "gkTerrainObjectLayer",
+	"date": "2013-08-09",
+	"author": "Moehr Ossum",
+	"license": "CC BY-SA"
+}
