@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="close.svg">
+   sodipodi:docname="terrainEdit.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1255"
-     inkscape:window-height="786"
+     inkscape:window-width="1251"
+     inkscape:window-height="846"
      inkscape:window-x="599"
      inkscape:window-y="400"
      inkscape:window-maximized="0" />
@@ -53,23 +53,26 @@
      id="layer1"
      transform="translate(0,-1002.3622)">
     <rect
-       style="fill:#f0f0f0;fill-opacity:0.50196081;stroke:none"
+       style="fill:#f0f0f0;fill-opacity:0.50196078;stroke:none"
        id="rect2984"
        width="45.714287"
-       height="16.071428"
-       x="2.8571429"
-       y="16.428572"
-       transform="translate(0,1002.3622)" />
+       height="26.071428"
+       x="3.2142856"
+       y="1015.5765" />
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
-       x="5.3571429"
-       y="1030.9336"
+       x="6.7857141"
+       y="1025.9336"
        id="text3754"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3756"
-         x="5.3571429"
-         y="1030.9336">Close</tspan></text>
+         x="6.7857141"
+         y="1025.9336">Terrain</tspan><tspan
+         sodipodi:role="line"
+         x="6.7857141"
+         y="1038.4336"
+         id="tspan3758">Edit</tspan></text>
   </g>
 </svg>

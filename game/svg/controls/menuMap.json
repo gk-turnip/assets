@@ -16,6 +16,10 @@
 		{
 			"display": "volume",
 			"goto": "volume"
+		},
+		{
+			"display": "terrainEdit",
+			"goto": "terrainEdit"
 		}
 	],
 	"screen": [
@@ -122,6 +126,29 @@
 		},
 		{
 			"display": "effectsVolumePad"
+		}
+	],
+	"terrainEdit": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "addTile",
+			"goto": "addTile"
+		},
+		{
+			"display": "removeTile",
+			"goto": "removeTile"
+		}
+	],
+	"addTile": [
+		{
+			"display": "close"
+		}
+	],
+	"removeTile": [
+		{
+			"display": "close"
 		}
 	],
 	"date": "2013-08-04",

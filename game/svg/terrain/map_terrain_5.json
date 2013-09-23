@@ -2,6 +2,7 @@
 	"originX": 0,
 	"originY": 0,
 	"originZ": 0,
+	"editable": true,
 	"audioList": [ ],
 	"objectList": [ ],
 	"elevationList": [],

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="close.svg">
+   sodipodi:docname="removeTile.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-21.785714"
-     inkscape:cy="21.785714"
+     inkscape:zoom="11.2"
+     inkscape:cx="14.195319"
+     inkscape:cy="17.396028"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1255"
-     inkscape:window-height="786"
-     inkscape:window-x="599"
-     inkscape:window-y="400"
+     inkscape:window-width="1195"
+     inkscape:window-height="864"
+     inkscape:window-x="3100"
+     inkscape:window-y="610"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -53,23 +53,34 @@
      id="layer1"
      transform="translate(0,-1002.3622)">
     <rect
-       style="fill:#f0f0f0;fill-opacity:0.50196081;stroke:none"
+       style="fill:#f0f0f0;fill-opacity:0.50196078;stroke:none"
        id="rect2984"
-       width="45.714287"
-       height="16.071428"
-       x="2.8571429"
-       y="16.428572"
-       transform="translate(0,1002.3622)" />
+       width="46.42857"
+       height="24.642859"
+       x="2.5"
+       y="1015.2194" />
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
-       x="5.3571429"
-       y="1030.9336"
+       x="5.7142859"
+       y="1024.8622"
        id="text3754"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3756"
-         x="5.3571429"
-         y="1030.9336">Close</tspan></text>
+         x="5.7142859"
+         y="1024.8622">Remove</tspan><tspan
+         sodipodi:role="line"
+         x="5.7142859"
+         y="1037.3622"
+         id="tspan3758">Tile</tspan></text>
+<g transform="scale(0.01)" id="checkMark">
+    <path
+       style="fill:#f0f000;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       d="m 28.536809,1038.0938 c 1.821617,-2.4461 3.646454,-4.4604 5.591618,-6.1472 -0.267763,-0.4234 -0.958865,-1.2127 -1.381913,-1.6344 -2.049161,1.4686 -3.161826,2.8503 -4.404434,4.444 -0.862377,-0.6753 -1.288434,-0.9095 -2.001459,-1.4346 -0.393429,0.5939 -0.820425,1.4444 -1.208336,2.0921 1.430155,0.7529 2.552777,1.8093 3.404524,2.6801 z"
+       id="path3761"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
   </g>
 </svg>
