@@ -133,22 +133,52 @@
 			"display": "close"
 		},
 		{
-			"display": "addTile",
-			"goto": "addTile"
+			"display": "terrainTileEdit",
+			"goto": "terrainTileEdit"
 		},
 		{
-			"display": "removeTile",
-			"goto": "removeTile"
+			"display": "terrainAttributeEdit",
+			"goto": "terrainAttributeEdit"
+		},
+		{
+			"display": "terrainElevationEdit",
+			"goto": "terrainElevationEdit"
+		},
+		{
+			"display": "terrainSaveEdit"
 		}
 	],
-	"addTile": [
+	"terrainTileEdit": [
 		{
 			"display": "close"
+		},
+		{
+			"display": "addTile"
+		},
+		{
+			"display": "removeTile"
 		}
 	],
-	"removeTile": [
+	"terrainAttributeEdit": [
 		{
 			"display": "close"
+		},
+		{
+			"display": "setTerrainAttribute"
+		},
+		{
+			"display": "clearTerrainAttribute"
+		},
+		{
+			"display": "terrainAttributePad"
+		}
+	],
+	"terrainElevationEdit": [
+		{
+			"display": "close"
+		},
+		{
+			"display": "terrainElevationPad"
 		}
 	],
 	"date": "2013-08-04",
